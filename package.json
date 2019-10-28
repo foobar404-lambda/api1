@@ -1,0 +1,23 @@
+{
+  "name": "api1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foobar404-lambda/api1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/foobar404-lambda/api1/issues"
+  },
+  "homepage": "https://github.com/foobar404-lambda/api1#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
